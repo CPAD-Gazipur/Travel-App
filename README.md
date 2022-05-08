@@ -3,7 +3,7 @@ This is a Flutter Application where you can get travel related news & blogs.
 
 ## Live Site:
 
-Link: 
+Link: https://cpad-gazipur.github.io/Travel-App/
 
 ## Download APK:
 
