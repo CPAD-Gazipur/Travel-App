@@ -10,6 +10,7 @@ class MostPopularBlog extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return ListView.separated(
+      physics: const ScrollPhysics(),
       padding: const EdgeInsets.only(
         left: 15,
         right: 15,

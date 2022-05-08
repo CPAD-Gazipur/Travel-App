@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:travel_app/models/travel.dart';
 import 'package:travel_app/screens/details.dart';
+import 'package:travel_app/utils/app_scroll_behavior.dart';
 
 class TravelBlog extends StatelessWidget {
   TravelBlog({Key? key}) : super(key: key);
