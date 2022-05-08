@@ -9,27 +9,23 @@ Link:
 
 Link:
 
-## Screenshots:
+## Phone Screenshots:
 
-### 01. Home Screen
+       
 
-<img src="screenshots/home_screen.png" width="250">
+| Home Screen      |  Details Screen |  Scrollable Details Screen |
+| :---:       |    :----:   | :----:   |
+| <img src="screenshots/home_screen.png" width="250">       |  <img src="screenshots/detail_screen.png" width="250">     |  <img src="screenshots/scroll_able_details.png" width="250">  |
 
-### 02. Details Screen
 
-<img src="screenshots/detail_screen.png" width="250">
+## Web Screenshots:
 
-### 03. Scrollable Details Screen
 
-<img src="screenshots/scroll_able_details.png" width="250">
+| WebView Home Screen     |  WebView Details Screen | 
+| :---:       |    :----:   | 
+| <img src="screenshots/web_home_screen.jpeg">      |  <img src="screenshots/web_detail_screen.jpeg">     |
 
-### 04. WebView Home Screen:
 
-<img src="screenshots/web_home_screen.jpeg">
-
-### 05. WebView Details Screen:
-
-<img src="screenshots/web_detail_screen.jpeg">
 
 ### Disclaimer
 This project is made only for educational purpose. Anyone can use it but the risk has to be taken by the user.
