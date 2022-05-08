@@ -7,7 +7,7 @@ Link:
 
 ## Download APK:
 
-Link:
+Link: https://terabox.com/s/1kOqvtLbMJBaKXkypvJj8vQ
 
 ## Phone Screenshots:
 
